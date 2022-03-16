@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\dwijr\source\repos\FluidSim\FluidSim\main.cpp(146,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\dwijr\source\repos\FluidSim\FluidSim\main.cpp(146,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\dwijr\source\repos\FluidSim\FluidSim\main.cpp(146,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\dwijr\source\repos\FluidSim\FluidSim\main.cpp(146,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  FluidSim.vcxproj -> C:\Users\dwijr\source\repos\FluidSim\x64\Debug\FluidSim.exe
